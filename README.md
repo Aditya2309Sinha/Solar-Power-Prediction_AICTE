@@ -1,6 +1,5 @@
 # Solar-Power-Prediction_AICTE
 An AICTE internship project.
-Here's a concise summary for a README file:
 
 **About Project**
 
