@@ -12,3 +12,6 @@ This project aims to develop a predictive model using linear regression to estim
 3. **Exploratory Data Analysis (EDA):** Analyze the data to identify key factors influencing solar power output.
 4. **Model Building:** Train a linear regression model using the preprocessed data.
 5. **Model Evaluation:** Evaluate model performance using metrics like Mean Squared Error and Mean Absolute Error.
+
+
+**WEEK  2 UPDATED**
