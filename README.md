@@ -14,4 +14,4 @@ This project aims to develop a predictive model using linear regression to estim
 5. **Model Evaluation:** Evaluate model performance using metrics like Mean Squared Error and Mean Absolute Error.
 
 
-**WEEK  2 UPDATED**
+**WEEK  3 UPDATED**
